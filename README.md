@@ -6,7 +6,10 @@ Sistema simples de agendamento de serviços com regras de negócio, desenvolvido
 - Frontend: React + Vite + Bootstrap
 - Banco: MySQL (via Docker)
 
+## Tempo de Desenvolvimento
+	O tempo estimado de desenvolvimento do projeto foi de aproximadamente 3 horas, incluindo implementação de funcionalidades, integração entre frontend e backend e ajustes gerais.
 ---
+
 
 # 🚀 Funcionalidades
 
