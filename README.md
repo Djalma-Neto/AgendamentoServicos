@@ -11,6 +11,7 @@ Sistema simples de agendamento de serviços com regras de negócio, desenvolvido
 # 🚀 Funcionalidades
 
 - Listar serviços
+- Inserir Serviços (admin default_password: 123456)
 - Criar agendamentos
 - Listar agendamentos
 - Excluir agendamentos
